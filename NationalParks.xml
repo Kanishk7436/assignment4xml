@@ -46,7 +46,7 @@
     <Name>Zion</Name>
     <Phone>435-772-3256</Phone>
     <Phone>435-772-7700</Phone>
-    <Address NearestAirport="LasVegas">
+    <Address NearestAirport="Las Vegas">
       <Number>1</Number>
       <Street>Zion Park Boulevard</Street>
       <City>Springdale</City>
@@ -137,7 +137,7 @@
     <Name>Bryce Canyon</Name>
     <Phone>435-834-5322</Phone>
     <Phone>435-834-5323</Phone>
-    <Address NearestAirport="CedarCity">
+    <Address NearestAirport="Cedar City">
       <Number>1</Number>
       <Street>Bryce Canyon Scenic Drive</Street>
       <City>Bryce</City>
