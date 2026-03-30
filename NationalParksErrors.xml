@@ -5,12 +5,11 @@
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
     <Phone>928-638-7496</Phone>
-    <!-- Missing Address intentionally (schema error but XML valid) -->
+    <!-- Missing Address (intentional schema error) -->
   </NationalPark>
 
   <NationalPark>
     <Name>Yellowstone</Name>
-    <!-- Missing Phone (schema error but XML valid) -->
     <Address NearestAirport="Bozeman">
       <Number>2</Number>
       <Street>North Entrance Road</Street>
@@ -18,6 +17,7 @@
       <State>WY</State>
       <Zip>82190</Zip>
     </Address>
+    <!-- Missing Phone (intentional schema error) -->
   </NationalPark>
 
 </NationalParks>
