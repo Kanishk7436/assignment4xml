@@ -31,6 +31,7 @@ namespace ConsoleApp1
             try
             {
                 XmlSchemaSet schemas = new XmlSchemaSet();
+
                 using (XmlReader xsdReader = XmlReader.Create(xsdUrl))
                 {
                     schemas.Add(null, xsdReader);
@@ -59,14 +60,6 @@ namespace ConsoleApp1
                 }
 
                 return errors.ToString().Trim();
-            }
-            catch (XmlException ex)
-            {
-                return ex.Message;
-            }
-            catch (XmlSchemaException ex)
-            {
-                return ex.Message;
             }
             catch (Exception ex)
             {
