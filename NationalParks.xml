@@ -7,7 +7,7 @@
     <Phone>928-638-7496</Phone>
     <Phone>888-297-2757</Phone>
     <Phone>866-499-2574</Phone>
-    <Address NearestAirport="Flagstaff">
+    <Address NearestAirport="FlagStaff">
       <Number>8</Number>
       <Street>S Entrance Road</Street>
       <City>Grand Canyon</City>
@@ -46,7 +46,7 @@
     <Name>Zion</Name>
     <Phone>435-772-3256</Phone>
     <Phone>435-772-7700</Phone>
-    <Address NearestAirport="Las Vegas">
+    <Address NearestAirport="LasVegas">
       <Number>1</Number>
       <Street>Zion Park Boulevard</Street>
       <City>Springdale</City>
@@ -137,7 +137,7 @@
     <Name>Bryce Canyon</Name>
     <Phone>435-834-5322</Phone>
     <Phone>435-834-5323</Phone>
-    <Address NearestAirport="Cedar City">
+    <Address NearestAirport="CedarCity">
       <Number>1</Number>
       <Street>Bryce Canyon Scenic Drive</Street>
       <City>Bryce</City>
