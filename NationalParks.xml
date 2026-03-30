@@ -45,7 +45,7 @@
     <Name>Zion</Name>
     <Phone>435-772-3256</Phone>
     <Phone>435-772-7700</Phone>
-    <Address NearestAirport="Las Vegas">
+    <Address NearestAirport="LasVegas">
       <Number>1</Number>
       <Street>Zion Park Boulevard</Street>
       <City>Springdale</City>
